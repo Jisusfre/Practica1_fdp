@@ -1,2 +1,2 @@
-# Practica1_fdp
-Practica 1 de fundamentos de programación
+# Practica2_fdp
+Practica 2 GNU/Linux
