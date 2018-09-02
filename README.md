@@ -1,2 +1,2 @@
-# Practica2_fdp
-Practica 2 GNU/Linux
+# Practica3_fdp
+Practica 3 Algoritmos.
