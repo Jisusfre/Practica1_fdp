@@ -1,2 +1,2 @@
-# Practica4_fdp
-Practica 4 Diagramas de flujo.
+# Practica5_fdp
+Practica 5 pseudocodigo.
